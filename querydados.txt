@@ -22,18 +22,21 @@ INSERT INTO horario VALUES('M2','');
 INSERT INTO horario VALUES('M3','');
 INSERT INTO horario VALUES('M4','');
 INSERT INTO horario VALUES('M5','');
+INSERT INTO horario VALUES('M6','');
 
 INSERT INTO horario VALUES('T1','');
 INSERT INTO horario VALUES('T2','');
 INSERT INTO horario VALUES('T3','');
 INSERT INTO horario VALUES('T4','');
 INSERT INTO horario VALUES('T5','');
+INSERT INTO horario VALUES('T6','');
 
 INSERT INTO horario VALUES('N1','');
 INSERT INTO horario VALUES('N2','');
 INSERT INTO horario VALUES('N3','');
 INSERT INTO horario VALUES('N4','');
 INSERT INTO horario VALUES('N5','');
+INSERT INTO horario VALUES('N6','');
 
 INSERT INTO departamento VALUES('DACOM','DEPT COMP');
 INSERT  INTO departamento VALUES('DAMEC','DEPT MEC');
